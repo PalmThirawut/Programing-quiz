@@ -89,6 +89,15 @@ p {
 
     #title {
         text-align: center;
+        height: 100vh;
+    }
+
+    .navbar-brand, .nav-link {
+        font-size: 1.5rem;
+    }
+
+    .heading-title, .titleTest {
+        font-size: 2.5rem;
     }
 }
 
